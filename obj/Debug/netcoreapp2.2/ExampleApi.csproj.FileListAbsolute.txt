@@ -1,0 +1,14 @@
+/home/kriodis/git/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.deps.json
+/home/kriodis/git/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.runtimeconfig.json
+/home/kriodis/git/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.runtimeconfig.dev.json
+/home/kriodis/git/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.dll
+/home/kriodis/git/ExampleApi/bin/Debug/netcoreapp2.2/ExampleApi.pdb
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.csprojAssemblyReference.cache
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.csproj.CoreCompileInputs.cache
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.RazorAssemblyInfo.cache
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.RazorAssemblyInfo.cs
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.AssemblyInfoInputs.cache
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.AssemblyInfo.cs
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.RazorTargetAssemblyInfo.cache
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.dll
+/home/kriodis/git/ExampleApi/obj/Debug/netcoreapp2.2/ExampleApi.pdb
